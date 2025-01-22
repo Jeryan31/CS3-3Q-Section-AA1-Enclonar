@@ -1,5 +1,5 @@
 const pi = 3.14;
-let radius = 50 ;//6.378e6;
+let radius = 6.378e6;
 let circumference = 2 * pi * radius, surfArea = 4 * pi * radius ** 2, volume = (4/3) * pi * radius ** 3 ;
 document.write('The radius of the sphere is: ' + radius + '.');
 document.write('<br><br>');
